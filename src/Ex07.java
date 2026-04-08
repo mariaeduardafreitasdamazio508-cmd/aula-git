@@ -8,7 +8,7 @@ void main() {
     int notafinal, notarestantes, notarextras, notarmeta;
 
 
-    notarmeta >=7;
+    notarmeta =7;
 
     IO.println("qual nota voce tirou");
     notafinal = sc.nextInt();
@@ -29,8 +29,3 @@ void main() {
         IO.println(notafinal - 40);}}
 
 
-
-
-
-
-}
